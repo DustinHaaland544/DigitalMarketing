@@ -24,7 +24,7 @@ Create Filter:
 Click on the "Create filter" button at the bottom right of the window.
 
 Apply Label:
-In the next window, check the box next of "Apply the label", check the box of "Also apply filter to matching conversation"
+In the next window, check the box of "Apply the label", check the box of "Also apply filter to matching conversation"
 and then select the label you created earlier from the drop-down list.
 
 Save Filter:
