@@ -31,3 +31,5 @@ Oct 15th, 2023: NVIDIA Stock (NVDA) share price: US$ 454.61
 Oct 15th, 2023: Marathon Digital Stock (MARA) share price: US$ 7.71
 
 Oct 15th, 2023: Riot Blockchain Stock (Riot) share price: US$ 9.15
+
+Dec 31st, 2023: Sound Hound AI (SOUN) share price: US$ 2.12 [Bounght 10 shares for US$ 21.20] 
