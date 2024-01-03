@@ -7,6 +7,7 @@ Open your Gmail account by visiting the Gmail website (https://mail.google.com/)
 Create a Label:
 In the left-hand sidebar, you'll see a list of labels. Scroll down to the bottom and click on "More" to expand the label list.
 Then, click on "Create new label." Give your label a meaningful name, such as the name of the sender you want to filter.
+Click Create
 
 Set Up a Filter:
 Now, you need to create a filter that will automatically apply your newly created label to emails from the specific sender. 
