@@ -54,7 +54,7 @@ Pass: MCFC@2020
 
 GoDaddy Site: www.nasifshah.ca
 
-Pass: CFC2018
+GoDaddy Login: nasifshah544 [CFC2018]
 
 https://login.microsoftonline.com/login.srf
 
